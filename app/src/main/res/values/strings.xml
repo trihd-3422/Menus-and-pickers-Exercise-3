@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menus-and-pickers Exercise 3</string>
+    <string name="tap_to_show_date_picker">Tap to show Date picker</string>
+    <string name="date">DATE</string>
+</resources>
